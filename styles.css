@@ -1,0 +1,9 @@
+/* Personaliza el encabezado */
+header {
+  background: linear-gradient(45deg, #007bff, #0056b3);
+}
+
+/* Sombra al carrusel */
+.carousel-inner img {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
